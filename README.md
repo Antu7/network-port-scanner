@@ -1,5 +1,8 @@
 # Port Scanner
 
+Networking is a crucial aspect of modern computing and understanding how to work with networks is a valuable skill for any developer. One of the fundamental tasks in networking is port scanning, which is the process of discovering open ports on a target machine. In this post, we will look at a Python script that can be used to scan open ports and identify the running services on a target machine.
+
+
 This is a simple Python script for port scanning. It checks the availability of ports on a host and identifies the service running on the open ports.
 
 ## Requirements
